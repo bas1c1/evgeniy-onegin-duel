@@ -7,7 +7,7 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm flex flex-col">
         <h1 className="text-4xl font-bold text-center mb-6">Дуэль Онегина и Ленского</h1>
         <p className="text-xl text-center mb-12 max-w-2xl">
-          Интерактивная визуализация ключевого момента романа А.С. Пушкина "Евгений Онегин"
+          Интерактивная визуализация дуэли Евгения Онегина и Владимира Ленского в романе А.С. Пушкина "Евгений Онегин"
         </p>
 
         <DuelVisualization />
